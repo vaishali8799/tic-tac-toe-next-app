@@ -10,7 +10,7 @@ const result = () => {
   return (
     <div>
       <Head>
-        <title>Welcome</title>
+        <title>Result</title>
         <meta name='viewport' content='initial-scale=1.0, width=device-width' />
       </Head>
       <div className='container'>
